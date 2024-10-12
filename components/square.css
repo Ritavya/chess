@@ -1,0 +1,30 @@
+.square1{
+    width: 11vw;
+    height: 11vw;
+    border-width: 1px;
+    border: none;
+    font-size: 7vw;
+    line-height: 7vw;
+    background-color: rgb(79, 84, 224);
+}
+.square2{
+    width: 11vw;
+    height: 11vw;
+    border-width: 1px;
+    border: none;
+    font-size: 7vw;
+    line-height: 7vw;
+    background-color: rgb(145, 188, 211);
+}
+.high{
+    width: 11vw;
+    height: 11vw;
+    border-width: 1px;
+    border: none;
+    font-size: 7vw;
+    line-height: 7vw;
+    background-color: rgb(136, 255, 125);
+}
+.chessBoardStyle{
+    align-self: center;
+}
